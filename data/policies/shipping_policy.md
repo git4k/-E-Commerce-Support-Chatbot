@@ -1,0 +1,1 @@
+Standard shipping: 3-5 business days. Express shipping: 1-2 business days ($10 extra). Free shipping on orders over $50. Tracking numbers emailed after shipment.

@@ -1,0 +1,1 @@
+Customers may return items within 30 days of delivery. Items must be unused and in original packaging. Refunds are processed within 5 business days after inspection. No restocking fee for defective items.
