@@ -6,6 +6,12 @@ An AI-powered customer support chatbot built as a learning project to explore mu
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.55+-red.svg)](https://streamlit.io)
 
+## Demo
+
+![Chatbot Demo](images/demo.png)
+
+*The chatbot handles order tracking, refunds, and policy questions with sub-second response times.*
+
 ## Project Overview
 
 This project implements an intelligent customer support assistant that can:
