@@ -11,7 +11,7 @@ from app.tools.tools import check_order_status, create_refund, create_support_ti
 
 st.set_page_config(page_title="E-Commerce AI Support", page_icon="🛒")
 st.title("🛒 E-Commerce AI Support")
-st.caption("Multi-Agent Customer Support System (Simplified)")
+st.caption("Multi-Agent Customer Support System ")
 
 # Initialize chat history
 if "messages" not in st.session_state:
